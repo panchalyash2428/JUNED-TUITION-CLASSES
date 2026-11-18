@@ -9,7 +9,7 @@
 // One secret is needed in Cloudflare: SERVICE_ACCOUNT (the Firebase private key file, pasted whole).
 
 const PROJECT_ID = "juned-tuition-classes";
-const APP_URL = "https://panchalyash2428.github.io/KIM-ACADEMY-/";
+const APP_URL = "https://panchalyash2428.github.io/Juned-Tuition-Classes-/";
 const ALLOWED_ORIGIN = "https://panchalyash2428.github.io";
 const CLASSES = ["Class 7", "Class 8", "Class 9", "Class 10", "Class 11 Science", "Class 12 Science"];
 const APP_TITLE = "Juned Tuition Classes";   // shown as the bold title of every notification
